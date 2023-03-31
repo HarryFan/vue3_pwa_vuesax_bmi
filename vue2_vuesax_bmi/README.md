@@ -1,4 +1,4 @@
-# my-pwa-app
+# vue2_vuesax_bmi
 
 ## Project setup
 ```
