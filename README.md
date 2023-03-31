@@ -1,0 +1,2 @@
+# vue3_pwa_vuesax_bmi
+教學用，使用vue3實作pwa的應用，當用戶使用這個應用程式時，可以添加至主畫面、離線使用等PWA相關功能。UI使用vuesax的bmi功能元件
